@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Blackjack {
+public class Main {
 
     //Function that allows us to add cards to get total score
       public static int getSum(ArrayList<Integer> cards) {
